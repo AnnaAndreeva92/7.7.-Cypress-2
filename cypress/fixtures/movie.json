@@ -1,0 +1,13 @@
+{
+  "movieTitle": "Чебурашка",
+  "movieDuration": "113",
+  "filmDescription": "Угрюмый садовник приморского дендрария Геннадий Петрович живет скучной и одинокой жизнью, пока случайно не встречает невероятное существо. Маленький мохнатый зверек с большими ушами очаровывает пожилого мужчину, но вскоре про необычного гостя узнают и другие горожане. ",
+  "countryMovie": "Russia",
+  "title": ".popup__form > :nth-child(1) > .conf-step__input",
+  "duration": ":nth-child(2) > .conf-step__input",
+  "description": ".popup__form > :nth-child(3) > .conf-step__input",
+  "counrty": ":nth-child(4) > .conf-step__input",
+  "addMovie": ".conf-step__paragraph > a > .conf-step__button",
+  "addButton": "[value='Добавить фильм']",
+  "downloadPoster": "[value='Загрузить постер'])"
+}
